@@ -1,0 +1,11 @@
+{
+    "name": "cleartag/satis-demo-2",
+	"requires": {
+		"cleartag/satis-demo": "*"
+	},
+    "autoload": {
+        "psr-0" : {
+            "cleartag\\satis2" : "src"
+        }
+    }
+}
