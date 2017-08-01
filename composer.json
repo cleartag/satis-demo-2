@@ -1,6 +1,6 @@
 {
     "name": "cleartag/satis-demo-2",
-	"requires": {
+	"require": {
 		"cleartag/satis-demo": "*"
 	},
     "autoload": {
